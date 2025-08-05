@@ -108,6 +108,10 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 1.5em;
+    color: rgb(21, 71, 33);
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 2em;
   }
   
   .photo-gallery li img {
